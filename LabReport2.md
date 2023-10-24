@@ -22,4 +22,4 @@ class Handler implements URLHandler {
 ```
 ![Image](1.png)
 ![Image](2.png)
-* 
+* The method name is called 
