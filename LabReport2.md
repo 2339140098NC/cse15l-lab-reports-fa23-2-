@@ -30,3 +30,10 @@ class Handler implements URLHandler {
 * Relevant arguments: The URL contains the query parameter "?s=How are you."
 * 'messages' will contain two strings, "1. hello" and "How are you"
 * changes in values: the "messages" list will have "1. Hello\n2. How are you"as its content
+
+  
+![Image](3.png)
+![Image](4.png)
+![Image](5.png)
+
+I learned more commands: ssh, scp, mkdir throughout the week, they are very useful. I also learned how to log in to the remote server without the passcode, which saves a lot of time, but it was confusing while setting it up. Before the lab, I didn't know how to build a web page with Git Hub, how to use GitHub, and how to log in to a remote server.
