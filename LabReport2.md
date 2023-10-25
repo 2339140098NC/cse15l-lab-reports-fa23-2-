@@ -21,5 +21,12 @@ class Handler implements URLHandler {
 }
 ```
 ![Image](1.png)
+* Method: The methods in my code called handleRequest
+* Relevant arguments: The URL contains the query parameter "?s=Hello"
+* Relevant fields: 'messages' will contain a single string, "1. Hello"
+* Changes in values: The 'messages' list will have "1. Hello" as its only element.
 ![Image](2.png)
-* The method name is called 
+* Method: Handler.handleRequiest
+* Relevant arguments: The URL contains the query parameter "?s=How are you."
+* 'messages' will contain two strings, "1. hello" and "How are you"
+* changes in values: the "messages" list will have "1. Hello\n2. How are you"as its content
